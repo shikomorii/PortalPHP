@@ -1,0 +1,87 @@
+#div1{
+    position: absolute;
+    left: 32.7%;
+  }
+
+  #div2{
+    position: absolute;
+    left: 42.7%;
+    top: 10%;
+  }
+#div3{
+    position: absolute;
+    left: 47.7%;
+    top: 20%;
+  }
+#logo{
+  position: absolute;
+  top: 0%;
+  left: 40%;
+ 
+}
+#cabecario{
+  background-color: rgb(5, 0, 0);
+  position:absolute;
+  left: 74.5%;
+  top: 0%;
+  width:0px ;
+
+  height: 100vh;
+  transition: 0.3s;
+}
+
+#cabecario ul{
+  list-style: none;
+  margin-top: 15px;
+  height: 50%;
+}
+
+#cabecario a{
+  
+  color: #fff;
+  text-decoration: none;
+}
+#icon-menu{
+  position: absolute;
+  top: 0%;
+  left: 95%;
+  cursor: pointer;
+
+}
+#texto{
+  position: relative;
+  left: 40%;
+}
+#frasenoticias{
+  font-family: Impact;
+  position: absolute;
+  left: 42%;
+  top:10%;
+  color: rgb(0, 0, 0);
+}
+#resultado{
+  font-family: Impact;
+    position: absolute; 
+    top:20%;
+}
+.nav{
+ 
+  position: absolute ;
+  left: 5%;
+  top: 35%;
+}
+#vermelho{
+  font-family: arial;
+  text-align: center;
+  color: #fff;
+  background-color: #d5011a;
+  height: 150%;
+  width: 30%;
+  position: absolute;
+  left:185%;
+  top: 0%;
+}
+#resultado table{
+  margin-left: 60%;
+
+}
